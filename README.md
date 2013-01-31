@@ -24,6 +24,6 @@ a Tetris-like game, with GUI implemented with X11 library.
 1. You can reference the UML modeling chart in UML directory.
 2. You can type the least-unambiguous-short-hand command to control a block. 
     (e.g., if you want to move the block to the left, just type <code>lef</code>.)
-3. If you want to repeat a command <code>N</code> times, just type <code>N<command></code>.
+3. If you want to repeat a command <code>N</code> times, just type <code>N\<command\></code>.
     (for example, typing <code>4lef</code> means move the block 4 distance units to the left.)
 4. Stay tuned for a complete manual.
